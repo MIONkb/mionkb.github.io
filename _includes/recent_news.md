@@ -1,3 +1,3 @@
-- **2024 Biren Technology “Flying Cup” GPU Programming Challenge** — National First Place · 40,000 RMB · Jul. 2024 – Aug. 2024.
-  - GPU-based development of AI operators with performance-optimized CUDA kernels and system-level integration.
-  - 2024年壁仞科技“飞翔杯”GPU编程大赛 全国第一名 · 40000元。
+- **Feb. 2025** — Achieved **first place nationwide** in the Biren “Feixiang Cup” GPU Programming Competition. 壁仞科技“飞翔杯”GPU编程挑战赛获得全国第一名！ 
+- **Feb. 2025** — Our work of CGRA compiler is accepted by **DAC 2025**.  
+- **June 2025** — Will be giving an oral presentation at DAC 2025 — see you in San Francisco!
