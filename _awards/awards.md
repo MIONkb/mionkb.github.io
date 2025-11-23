@@ -1,5 +1,5 @@
 ---
-title: "Competition Experience"
+title: "Competition Awards"
 ---
 - **2024 Biren Technology “Flying Cup” GPU Programming Challenge** — National First Place · 40,000 RMB · Jul. 2024 – Aug. 2024.
   - GPU-based development of AI operators with performance-optimized CUDA kernels and system-level integration.
