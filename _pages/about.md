@@ -31,11 +31,9 @@ A user-friendly MLIR-based multi-level compiler framework that bridges CGRA and 
 
 - [View all publications](https://mionkb.github.io/publications/)
 
-## Competition Experiences
-[View competition experiences](https://mionkb.github.io/awards/awards/)
+## Competition Experiences - [details](https://mionkb.github.io/awards/awards/)
 
-## Internship
-[View internship details](https://mionkb.github.io/experience/internship/)
+## Internship - [details](https://mionkb.github.io/experience/internship/)
 
 ## Contact
 - **Email:** [jhlou22@m.fudan.edu.com](mailto:jhlou22@m.fudan.edu.com)
