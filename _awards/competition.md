@@ -11,4 +11,4 @@ title: "Competition Awards"
   - [link](https://fuweibei.com/history/5.html)
 - **The 5th National College IC Competition for Innovation and Entrepreneurship (CICC)** — Second Prize of National Finals · 15,000 RMB · Mar. 2021 – Aug. 2021.
   - Led a team to develop a speech-controlled wireless smart helmet based on Xilinx FPGA and IEEE 802.11ah, covering hardware/software architecture, low-level I/O, speech recognition accelerator (Verilog), RISC-V CPU integration, and SDK software.
-  - 2021年第五届全国大学生电子设计创新创业大赛 国家级二等奖 · 15000元。
+  - 2021年第五届全国大学生集成电路创新创业大赛 国家级二等奖 · 15000元。
