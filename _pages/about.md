@@ -1,24 +1,23 @@
 ---
 permalink: /
-title: "Jiahang Lou"
+title: "Jiahang Lou 楼佳杭"
 author_profile: true
 layout: single
 ---
 
 ## About
-I am a Ph.D. student in Electronics Engineering (EE) at the State Key Laboratory of Integrated Circuits and System, Fudan University, supervised by Prof. Lingli Wang. My research focuses on **coarse-grained reconfigurable architectures (CGRAs)** and **compiler design**, with a particular emphasis on MLIR-based compilation frameworks, tensor dataflow optimization, and heterogeneous CGRA–CPU systems for AI workloads.
+I am a Ph.D. student in Electronics Engineering (EE) at the State Key Laboratory of Integrated Circuits and System, Fudan University, supervised by Prof. [Lingli Wang](https://sme.fudan.edu.cn/60/3c/c31155a352316/page.htm). My research focuses on **reconfigurable architectures (e.g. CGRAs)** and **AI compiler design**, with a particular emphasis on MLIR-based compilation frameworks, tensor dataflow optimization, and heterogeneous CGRA–CPU systems for AI workloads.
 
 I have published as the first author at **DATE 2024** and **DAC 2025**, and have participated in several national and international competitions related to electronic design and GPU programming.
 
 - **Email:** [jhlou22@m.fudan.edu.com](mailto:jhlou22@m.fudan.edu.com)
-- **Location:** Shanghai, China
+- **Location:** Zhangheng Road 825, Shanghai, China  张衡路825号,浦东新区
 - **GitHub:** [MIONkb](https://github.com/MIONkb)
 - **Google Scholar:** [Jiahang Lou](https://scholar.google.com/citations?user=kqEOgqoAAAAJ&hl=en)
 
 ## Education
 - **Ph.D. in Electronics Engineering** — Fudan University, Shanghai, China · Sept. 2022 – Jun. 2027 (expected)
   - Supervisor: [Prof. Lingli Wang](https://sme.fudan.edu.cn/60/3c/c31155a352316/page.htm) (llwang@fudan.edu.cn)
-  - Focus: CGRA architecture, compiler design, polyhedral model, heterogeneous systems, AI compilers, MLIR.
 - **B.Sc. in Microelectronics** — Fudan University, Shanghai, China · Sept. 2018 – Jun. 2022
 
 ## Research Interests
@@ -26,11 +25,13 @@ I have published as the first author at **DATE 2024** and **DAC 2025**, and have
 - Compiler design and MLIR-based compilation frameworks
 - Polyhedral model and loop transformations
 - Heterogeneous CGRA–CPU and CGRA–GPU systems
-- AI compilers and dataflow optimization for DNNs / LLMs
+- AI compilers and dataflow optimization for DNNs
 
 ## Selected Publications
-- **Adora Compiler: End-to-End Optimization for High-Efficiency Dataflow Acceleration and Task Pipelining on CGRAs** (DAC 2025) — Jiahang Lou, et al.; Design Automation Conference (DAC), San Francisco, USA, June 21–25, 2025. A unified framework bridging user-friendly programming and high-performance acceleration for CGRAs through automated loop transformations, task/data-flow optimization, and systematic algorithms.
-- **An Agile Deploying Approach for Large-Scale Workloads on CGRA-CPU Architecture** (DATE 2024) — Jiahang Lou, et al.; Design, Automation & Test in Europe Conference & Exhibition (DATE), Valencia, Spain, March 22–25, 2024. A user-friendly MLIR-based multi-level compiler framework that bridges CGRA and RISC-V CPU architectures by automating optimizations and hardware–software partitioning for large-scale workloads.
+- **Adora Compiler: End-to-End Optimization for High-Efficiency Dataflow Acceleration and Task Pipelining on CGRAs** (DAC 2025) — Jiahang Lou, et al.; Design Automation Conference (DAC), San Francisco, USA, June 21–25, 2025. Github: [adora-compiler](https://github.com/FDU-ME-ARC/adora-compiler)**
+A unified framework bridging user-friendly programming and high-performance acceleration for CGRAs through automated loop transformations, task/data-flow optimization, and systematic algorithms.
+- **An Agile Deploying Approach for Large-Scale Workloads on CGRA-CPU Architecture** (DATE 2024) — Jiahang Lou, et al.; Design, Automation & Test in Europe Conference & Exhibition (DATE), Valencia, Spain, March 22–25, 2024. 
+A user-friendly MLIR-based multi-level compiler framework that bridges CGRA and RISC-V CPU architectures by automating optimizations and hardware–software partitioning for large-scale workloads.
 
 ## Awards & Competition Experience
 - **2024 Biren Technology “Flying Cup” GPU Programming Challenge** — National First Place · 40,000 RMB · Jul. 2024 – Aug. 2024. GPU-based development of AI operators, focusing on performance-optimized CUDA kernels and system-level integration.
