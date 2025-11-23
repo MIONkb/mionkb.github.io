@@ -3,9 +3,9 @@ title: "Adora Compiler: End-to-End Optimization for High-Efficiency Dataflow Acc
 collection: publications
 category: conferences
 permalink: /publication/2025-adora-compiler
-excerpt: "Jiahang Lou, Qilong Zhu, Yuan Dai，Zewei Zhong, Wenbo Yin and Lingli Wang."
+excerpt: "<strong>Jiahang Lou</strong>, Qilong Zhu, Yuan Dai，Zewei Zhong, Wenbo Yin and Lingli Wang."
 date: 2025-06-21
-venue: "Design Automation Conference (DAC 2025), San Francisco, USA"
+venue: "Design Automation Conference (<strong>DAC 2025</strong>), San Francisco, USA"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/11132391"
 # citation: "Jiahang Lou, et al. (2025). &quot;Adora Compiler: End-to-End Optimization for High-Efficiency Dataflow Acceleration and Task Pipelining on CGRAs.&quot; <i>DAC 2025</i>, San Francisco, USA."
 ---
