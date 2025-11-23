@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jiahang Lou"
+title                    : "Homepage of Jiahang Lou (Mion)"
 title_separator          : "-"
 name                     : &name "Jiahang Lou"
 description              : &description "Academic homepage for Jiahang Lou, Ph.D. candidate at Fudan University"
