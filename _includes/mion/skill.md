@@ -6,7 +6,8 @@
   * Pytorch, Tensorflow
   * MLIR, LLVM, CMAKE
 * Software: 
-  * Vivado/Vitis, Keil, Git, Synopsys Design-Compiler
+  * Vivado/Vitis, Keil, Git
+  * Synopsys Design-Compiler,VCS, Verilator 
 * Language: 
   * Chinese(native), English(CET6 IELTS6.5)
 * Sports:
