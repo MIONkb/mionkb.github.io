@@ -22,4 +22,4 @@
 * Language: 
   * Chinese(native), English(CET6 IELTS6.5)
 * Sports:
-  * Basketball
+  * Basketball 
