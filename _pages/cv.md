@@ -1,5 +1,6 @@
 ---
-layout: cv-layout
+# layout: cv-layout
+layout: compressed
 title: "CV"
 permalink: /cv/
 author_profile: true
