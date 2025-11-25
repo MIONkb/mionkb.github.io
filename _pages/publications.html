@@ -11,7 +11,9 @@ author_profile: true
 <p class="wordwrap">You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</p>
 {% endif %}
 
-{% assign publications = site.publications | sort: "date" | reverse %}
+{% include mion/mion/papers.md %}
+
+<!-- {% assign publications = site.publications | sort: "date" | reverse %}
 
 <div class="publications">
   {% assign current_year = "" %}
@@ -49,4 +51,4 @@ author_profile: true
   {% if publications.size > 0 %}
     </ul>
   {% endif %}
-</div>
+</div> -->

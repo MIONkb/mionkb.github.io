@@ -17,30 +17,23 @@ Education
 ======
 * Ph.D in Electronics Engineer, Fudan University, 2022 - 2027(expected)
   * supervisor: [Prof. Lingli Wang](https://sme.fudan.edu.cn/60/3c/c31155a352316/page.htm) (llwang@fudan.edu.cn)
-* B.S. in Micro-Electronics, Fudan University, 2018 - 2022 (top 15%)
+* B.S. in Micro-Electronics, Fudan University, 2018 - 2022 (top 20%)
 
 Open-Source Projects
 ======
 {% include mion/projects.md %}
-
-Intern Experience
-======
-<ul>
-  {% capture intern %}
-    {% include mion/internship.md %}
-  {% endcapture %}
-  {{ intern | markdownify }}
-</ul>
   
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% include mion/mion/papers.md %}
 
 Competition
 ======
 {% include mion/competition.md %}
+
+Intern Experience
+======
+{% include mion/internship.md %}
 
 Skills
 ======
