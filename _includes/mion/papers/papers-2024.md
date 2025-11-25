@@ -1,3 +1,6 @@
+---
+layout: compressed
+---
 ### MDCRA: A Reconfigurable Accelerator Framework for Multiple Dataflow Lanes
 Shaoyang Sun, Boyin Jin, **Jiahang Lou**, Jiangnan Li, Yuhang Cao, Jingyuan Li, Chen Shen, Yuan Dai, Wenbo Yin, Wai-Shing Luk, Lingli Wang. 35th IEEE International Conference on Application-specific Systems, Architectures and Processors, **ASAP 2024**, Hong Kong, China. [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kqEOgqoAAAAJ&citation_for_view=kqEOgqoAAAAJ:d1gkVwhDpl0C)
 

@@ -1,3 +1,6 @@
+---
+layout: compressed
+---
 ### Co-Hosting Fusion SoC Tutorial-Workshop at FPT 2025  
 Hosted by Lingli Wang's group, including Yuan Dai, **Jiahang Lou**, Jingyuan Li, Huan Lin, Guibin Zou, XinYu Cai and other team members.
 International Conference on Field Programmable Technology (**FPT 2025-workshop**), ShanghaiTech University, Shanghai — [link](https://fpt-2025.lin.pub/#schedule)
