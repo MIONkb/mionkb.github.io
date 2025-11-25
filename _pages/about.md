@@ -2,9 +2,8 @@
 permalink: /
 title: "Jiahang Lou 楼佳杭"
 author_profile: true
-layout: single
+layout: default
 ---
-
 ## About
 {% include mion/introduction.md %}
 
