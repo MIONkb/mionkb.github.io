@@ -13,7 +13,7 @@
 * Sports:
   * Basketball -->
 * Programming Language: 
-  * C/C++, CUDA, Verilog, Chisel(Scala), Python, Shell, Marddown
+  * C/C++, CUDA, Verilog, Chisel(Scala), Python, Shell, Markdown
 * Programming Framework: 
   * Pytorch, Tensorflow, MLIR, LLVM, CMAKE
 * Software: 
