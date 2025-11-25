@@ -12,6 +12,7 @@ redirect_from:
 <!-- <img src="/assets/img/fudan-logo.png" width="90" style="float:left; margin-right:15px;"> -->
 ## About
 {% include mion/introduction.md %}
+<hr>
 ## Education
 * Ph.D in Electronics Engineer, Fudan University, 2022 - 2027(expected)
   * supervisor: [Prof. Lingli Wang](https://sme.fudan.edu.cn/60/3c/c31155a352316/page.htm) (llwang@fudan.edu.cn)
