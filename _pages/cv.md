@@ -8,8 +8,8 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+<img src="/images/fudan-logo.jpg" width="70" style="float:left; margin-right:15px;">
 # Jiahang Lou 楼佳杭
-<img src="/images/fudan-logo.jpg" width="30" style="float:left; margin-right:15px;">
 
 <img src="/images/mionhead_bluebackground.jpg" width="140" style="float:right; border-radius:8px; margin-left:15px;">
 ## About
