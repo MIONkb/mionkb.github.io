@@ -1,3 +1,20 @@
-- **Adora Compiler: End-to-End Optimization for High-Efficiency Dataflow Acceleration and Task Pipelining on CGRAs** Design Automation Conference (DAC 2025).<br>
-  - Github: [https://github.com/FDU-ME-ARC/adora-compiler](https://github.com/FDU-ME-ARC/adora-compiler)
-  - An MLIR-based unified framework bridging user-friendly programming(C, pytorch, onnx) and high-performance acceleration for CGRAs through automated loop transformations, task/data-flow optimization, and systematic mapping.
+- **Adora Compiler: End-to-End Optimization for High-Efficiency Dataflow Acceleration and Task Pipelining on CGRAs**  Design Automation Conference (**DAC 2025**).  
+  - GitHub: [https://github.com/FDU-ME-ARC/adora-compiler](https://github.com/FDU-ME-ARC/adora-compiler)  
+  - An MLIR-based unified framework that bridges user-friendly programming (C, PyTorch, ONNX) and high-performance CGRA acceleration through automated loop transformations, task/dataflow optimization, and systematic mapping.  
+  - Multiple frontend input types:
+    - C via Polygeist  
+    - PyTorch via Torch-MLIR  
+    - ONNX via [**adora-onnx-mlir**](https://github.com/MIONkb/adora-onnx-mlir/tree/adora) (an self-hosted ONNX-MLIR version for our ADORA)  
+  - Multi-level optimization:
+    - For ONNX-based neural networks: dataflow optimization for GEMM; other operators are lowered to affine loop nests  
+    - For loop programs: polyhedral-based loop transformations (tiling, unrolling, reordering), plus branch and peephole optimizations  
+  - Multiple backends:
+    - Rocket + CGRA in the Chipyard environment  
+    - Cocotb-based CGRA simulation  
+    - FPGA prototypes via Xilinx Vitis SDK
+
+- **Vitra Reconfigurable Array Design** — a partitionable and dynamically reconfigurable CGRA architecture  
+  - GitHub: [https://github.com/MIONkb/FDRA](https://github.com/MIONkb/FDRA)  
+  - A CGRA design supporting partition-aware dynamic reconfiguration and flexible resource allocation  
+  - Implements AXI data path and AXI-Lite control path for host–CGRA communication with on-CGRA memory access  
+  - Includes a Cocotb-based simulation environment for cycle-accurate verification
