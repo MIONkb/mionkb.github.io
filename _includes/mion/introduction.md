@@ -2,7 +2,7 @@ I am a Ph.D. student in Electronics Engineering (EE) at the State Key Laboratory
 
 I have published as the first author at **DATE 2024** and **DAC 2025**, and have participated in several national and international competitions related to electronic design and GPU programming.
 
-- Research Interests
+- Research Interests:
   - Coarse-Grained Reconfigurable Architectures (CGRAs)
   - Compiler design and MLIR-based compilation frameworks
   - AI deployment and dataflow-aware tensor optimization for DNNs
