@@ -1,0 +1,1 @@
+- Outstanding Graduate of Fudan University(复旦大学优秀毕业生), 2022
