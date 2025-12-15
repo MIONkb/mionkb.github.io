@@ -1,1 +1,3 @@
 - Outstanding Graduate of Fudan University(复旦大学优秀毕业生), 2022
+- Outstanding Student Award of Fudan University (复旦大学优秀学生), 2019
+- Software Copyright x 1
